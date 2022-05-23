@@ -1,9 +1,39 @@
 /*commons*/
-header {background-color:rgb(43, 136, 223)}
-#title-pic {height: 40px}
+header {
+    background-color:rgb(43, 136, 223);
+}
+
+.title-pic {
+    height: 40px;
+}
+
 /*fine commons*/
 /*inizio main*/
-#grey-text {color: grey;}
-#Cyan-text {color:cyan}
-#data {font-size: 10px;}
-.Descrizione-foto {font-size: 12px;}
+.grey-text {
+    color: grey;
+}
+.cyan-text {
+    color:cyan;
+}
+.data {
+    font-size: 10px;
+}
+.Descrizione-foto {
+    font-size: 12px;
+}
+.testo-background-giallo {
+    background-color: rgb(240, 240, 142);
+}
+/*inizio tabella*/
+.Colore-testo-tabella {
+    color: white;
+}
+.sfondo-1-tabella {
+    background-color: rgb(43, 136, 223);
+}
+.sfondo-2-tabella {
+    background-color: rgb(151, 222, 235);
+}
+.text-align {
+    text-align: left;
+}
